@@ -33,11 +33,11 @@ red = (255,0,0)
 gameendblue = (66,134,244)
 gameendred = (216,53,13)
 
-MaxLevel = 2; # Default 5
+MaxLevel = 5; # Default 5
 Level = 0;
 Score = 0;
 LScore = 0;
-ScoreToLevel = 5; # Default 10
+ScoreToLevel = 10; # Default 10
 Health = 100;
 EnemySpeed = 0.85;
 playerSpeed = 0.5;
